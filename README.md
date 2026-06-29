@@ -1,7 +1,7 @@
 # Hashir Rana
 
 **Grade 10 · Ontario, Canada**  
-Aspiring AI Engineer · Building toward University of Waterloo Computer Science / Software Engineering
+Aspiring AI Engineer · Building toward University of Waterloo Computer Science / AI Engineer
 
 ---
 
