@@ -5,9 +5,11 @@ Working toward AI Engineering.
 
 ## Projects
 
+**Lumen** — A browser-based generative art playground with 14 interactive toys and 12 themes.
+
 Lumen is a single-file interactive art experience built entirely in vanilla JavaScript and HTML5 Canvas.
 
-The landing page showcases all 14 toys with live animated previews. 
+The landing page showcases all 14 toys with live animated previews.
 
 The full-screen playground lets you sculpt a living canvas with your cursor or touch.
 
@@ -17,7 +19,7 @@ The full-screen playground lets you sculpt a living canvas with your cursor or t
 
 Built with performance in mind — spatial grids, capped trails, and auto-pause when hidden. Fully touch-responsive.
 
-![Lumen preview](Lumen-preview.png)
+![Lumen preview](lumen-preview.png)
 
 - **BYTE** — Pixel-art productivity companion app
 
