@@ -5,6 +5,8 @@ Working toward AI Engineering at University of Waterloo.
 
 ## Projects
 - **Lumen** — Generative art playground with 16 interactive toys and 12 themes
+![Lumen preview](Screenshot 2026-06-29 112020.png)
+
 - **BYTE** — Pixel-art productivity companion app
 
 ## Client Work
