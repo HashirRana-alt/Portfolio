@@ -19,7 +19,7 @@ The full-screen playground lets you sculpt a living canvas with your cursor or t
 
 Built with performance in mind — spatial grids, capped trails, and auto-pause when hidden. Fully touch-responsive.
 
-![Lumen preview](lumen-preview.png)
+![Lumen preview](Lumen-preview.png)
 
 - **BYTE** — Pixel-art productivity companion app
 
