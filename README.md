@@ -4,9 +4,10 @@ Grade 10 student in Ontario. I build web apps, games, and AI projects.
 Working toward AI Engineering at University of Waterloo.
 
 ## Projects
+
 - **Lumen** — Generative art playground with 16 interactive toys and 12 themes
 
-![Lumen preview](Screenshot 2026-06-29 112020.png)
+![Lumen preview](Screenshot%202026-06-29%20112020.png)
 
 - **BYTE** — Pixel-art productivity companion app
 
