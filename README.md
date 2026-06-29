@@ -1,7 +1,7 @@
 # Hashir Rana — Portfolio
 
 Grade 10 student in Ontario. I build web apps, games, and AI projects.
-Working toward AI Engineering at University of Waterloo.
+Working toward AI Engineering.
 
 ## Projects
 
