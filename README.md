@@ -27,7 +27,7 @@ Built with performance in mind — spatial grids, capped trails, and auto-pause 
 - Stars Salon — custom business website
   
 ## Certificates
-- DataCamp — Introduction to Python (2026) ✅
+- DataCamp — [Introduction to Python (2026)](certificate.pdf) ✅
 - DataCamp — Intermediate Python (2026) — in progress
 
 ## Skills
