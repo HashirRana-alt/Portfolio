@@ -10,7 +10,8 @@ Working toward AI Engineering at University of Waterloo.
 ## Client Work
 - Cellrox Canada Inc. — custom business website
 - Big Tech Guys — custom business website
-
+- Stars Salon — custom business website
+  
 ## Certificates
 - DataCamp — Introduction to Python (2026) ✅
 - DataCamp — Intermediate Python (2026) — in progress
