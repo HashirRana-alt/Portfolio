@@ -7,7 +7,7 @@ Working toward AI Engineering at University of Waterloo.
 
 - **Lumen** — Generative art playground with 16 interactive toys and 12 themes
 
-![Lumen preview](lumen-preview.png)
+![Lumen preview](Lumen-preview.png)
 
 - **BYTE** — Pixel-art productivity companion app
 
