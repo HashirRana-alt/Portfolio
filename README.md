@@ -5,7 +5,16 @@ Working toward AI Engineering at University of Waterloo.
 
 ## Projects
 
-- **Lumen** — Generative art playground with 16 interactive toys and 12 themes
+- Lumen is a single-file interactive art experience built entirely in vanilla JavaScript and HTML5 Canvas.
+
+The landing page showcases all 14 toys with live animated previews. 
+The full-screen playground lets you sculpt a living canvas with your cursor or touch.
+
+**14 toys include:** Cosmos, Flow, Silk, Orbits, Ripple, Bloom, Lattice, Swarm, Aurora, Fluid, Chain, Magnet, Spiral, Tendrils
+
+**12 themes include:** Aurora, Ember, Nebula, Glacier, Sakura, Citron, Mono, Sunset, Toxic, Oceanic, Noir, Rainbow
+
+Built with performance in mind — spatial grids, capped trails, and auto-pause when hidden. Fully touch-responsive.
 
 ![Lumen preview](Lumen-preview.png)
 
