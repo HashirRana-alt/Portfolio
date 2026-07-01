@@ -1,7 +1,6 @@
 # Hashir Rana
-
 **Grade 10 · Ontario, Canada**  
-Aspiring AI Engineer · Building toward University of Waterloo Computer Science / AI Engineer
+Aspiring AI Engineer · Building toward University of Waterloo Computer Science / AI Engineering
 
 ---
 
@@ -49,12 +48,31 @@ Independent web design work for local Ontario businesses:
 
 ---
 
-## Certificates
+## Certificates & Learning
 
+### Completed
 - ✅ DataCamp — [Introduction to Python (2026)](https://github.com/HashirRana-alt/Portfolio/blob/main/certificate.pdf)
-- 🔄 DataCamp — Intermediate Python *(in progress)*
-- 📋 DataCamp — AI Fundamentals *(upcoming)*
-- 📋 DataCamp — AI Engineer for Developers *(upcoming)*
+
+### In Progress
+- 🔄 DataCamp — Intermediate Python
+
+### AI Engineer for Developers Track *(upcoming)*
+9-course track covering the full AI engineering stack:
+
+| # | Course | Status |
+|---|---|---|
+| 1 | Working with the OpenAI API | 📋 Upcoming |
+| 2 | Prompt Engineering with the OpenAI API | 📋 Upcoming |
+| 3 | Working with Hugging Face | 📋 Upcoming |
+| 4 | LLMOps Concepts | 📋 Upcoming |
+| 5 | Developing AI Systems with the OpenAI API | 📋 Upcoming |
+| 6 | Introduction to Embeddings with the OpenAI API | 📋 Upcoming |
+| 7 | Vector Databases for Embeddings with Pinecone | 📋 Upcoming |
+| 8 | Software Engineering Principles in Python | 📋 Upcoming |
+| 9 | Developing LLM Applications with LangChain | 📋 Upcoming |
+
+### Also Upcoming
+- 📋 DataCamp — AI Fundamentals
 
 ---
 
@@ -76,4 +94,4 @@ Independent web design work for local Ontario businesses:
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
