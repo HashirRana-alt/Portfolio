@@ -73,7 +73,7 @@ Built with
 
 Vanilla JavaScript, Canvas 2D, Web Audio API. No frameworks, no build step, no dependencies.
 
-![Lumen preview](Lumen-preview.png)
+![Lumen preview](Screenshot 2026-08-13 104534.png)
 
 ---
 
